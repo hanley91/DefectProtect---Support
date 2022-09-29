@@ -1,4 +1,3 @@
-# DefectProtect
 
 ### Need help using DefectProtect, have suggestions for new features, or general feedback? /Vous avez besoin d'aide pour utiliser DefectProtect, vous avez des suggestions de nouvelles fonctionnalités ou des commentaires d'ordre général ?
 
